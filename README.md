@@ -1,7 +1,7 @@
 # Roshambo-Lite
 
 ## Demo
-[[!alt text](https://github.com/InduManimaran/Roshambo-Lite/tree/master/Resources/icon.png)]](https://youtu.be/D4GdTonzPJk)
+[![alt text](https://github.com/InduManimaran/Roshambo-Lite/tree/master/Resources/icon.png)]](https://youtu.be/D4GdTonzPJk)
 
 ## Inspiration
 Big Bang Theory and [RPS Games](http://www.umop.com/rps.htm)
