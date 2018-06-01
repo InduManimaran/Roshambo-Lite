@@ -1,10 +1,12 @@
 # Roshambo-Lite
 
 ## Demo
-[![alt text](https://github.com/InduManimaran/Roshambo-Lite/tree/master/Resources/icon.png)]](https://youtu.be/D4GdTonzPJk)
 
 ## Inspiration
 Big Bang Theory and [RPS Games](http://www.umop.com/rps.htm)
+
+[![](https://github.com/InduManimaran/Roshambo-Lite/blob/master/Resources/icon.png)]((https://youtu.be/D4GdTonzPJk))
+
 
 ## What it does
 The application uses the best of three rounds to determine the winner of the game .The player gets to advance to the next round, only when either the droid or the player wins. Make the hand gesture for either rock, paper or scissor before the timer runs out. The image captured when the timer runs out will be used for identification. The droid picks a gesture based on a random gesture generator. The winner of the round is decided based on the classic rules of rock , paper and scissors. 
